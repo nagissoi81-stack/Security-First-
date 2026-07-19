@@ -11,36 +11,14 @@
 | Dependency Vulnerabilities | Dependency Scanning | `security` |
 | Exposed Secrets Detection | Secret Detection | `security` |
 | Code Quality | ESLint | `test` |
-| Unit Tests + Coverage | React Testing Library | `test` |
+| Unit Tests + Coverage | React Testing Library | `test` |<img width="818" height="326" alt="NAGITECH1" src="https://github.com/user-attachments/assets/24ad80ee-0fb1-4e89-b9c8-b966c7e63d3a" />
 
 ## 🏗️ Tech Stack
-
 - **Frontend:** React 18 + Tailwind CSS 3
 - **Testing:** React Testing Library + Jest
 - **Linting:** ESLint (with security rules)
 - **CI/CD:** GitLab CI/CD
-
-## 🚀 Getting Started
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-
-# Run tests
-npm test
-
-# Run linter
-npm run lint
-
-# Build for production
-npm run build
-```
-
 ## 📁 Project Structure
-
 ```
 nagitech-web-app/
 ├── .gitlab-ci.yml       # CI/CD Pipeline with security stages
@@ -56,6 +34,5 @@ nagitech-web-app/
     ├── index.css        # Tailwind imports
     ├── App.js           # Main component
     └── App.test.js      # Unit tests
-```
 
 Built  by Eng  Nagi Alshaikh· [NagiTech-group](https://gitlab.com/nagitech-group)
