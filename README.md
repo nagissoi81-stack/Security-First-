@@ -1,11 +1,10 @@
-
-
-NagiTech Web App 🚀
+# NagiTech Web App 🚀
 
 > Security-First React/Tailwind Full-Stack Project
-(Live Demo)](https://nagitech-web-app-7b3305.gitlab.io/)
+
 
 ## 🛡️ Security Features
+
 | Feature | Tool | Stage |
 |---------|------|-------|
 | Static Code Analysis | GitLab SAST | `security` |
@@ -59,4 +58,4 @@ nagitech-web-app/
     └── App.test.js      # Unit tests
 ```
 
-Built  by Eng  Nagi Alshaikhز
+Built  by Eng  Nagi Alshaikh· [NagiTech-group](https://gitlab.com/nagitech-group)
